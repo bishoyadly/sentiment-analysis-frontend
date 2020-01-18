@@ -1,0 +1,57 @@
+$background-color: #ffd700;
+
+.sentimentContainer {
+  display: block;
+  margin: 10px auto;
+  padding: 0 10px 10px 10px;
+  width: 500px;
+  height: 95vh;
+  border-radius: 10px;
+  background: white;
+  overflow: hidden;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.1);
+
+
+  .sentimentHeader {
+    margin: 0 -15px 0 -15px;
+    background: $background-color;
+    border-bottom: 5px solid #F3C010;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 3px 3px 0 $background-color;
+    transition: all 1s;
+  }
+
+  .sentimentHeader:hover{
+    color: #40a9ff;
+  }
+
+  .voicesDropDown,
+  .analyzeButton {
+    width: 100%;
+    margin: 10px 0;
+  }
+
+  .sliderContainer label {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive;
+    color: black;
+  }
+
+  .inputTextarea {
+    color: black;
+    margin: 20px auto;
+    font-size: 18px;
+    resize: none;
+  }
+
+  .analyzeButton {
+    color: black;
+    height: 50px;
+    font-family: 'Pacifico', cursive;
+    font-size: 25px;
+  }
+
+}
