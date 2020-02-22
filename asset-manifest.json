@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sentiment-analysis/static/css/main.d1b05096.chunk.css",
-    "main.js": "/sentiment-analysis/static/js/main.65decd69.chunk.js",
-    "main.js.map": "/sentiment-analysis/static/js/main.65decd69.chunk.js.map",
-    "runtime-main.js": "/sentiment-analysis/static/js/runtime-main.2d9d64e7.js",
-    "runtime-main.js.map": "/sentiment-analysis/static/js/runtime-main.2d9d64e7.js.map",
-    "static/js/2.a4c8e23e.chunk.js": "/sentiment-analysis/static/js/2.a4c8e23e.chunk.js",
-    "static/js/2.a4c8e23e.chunk.js.map": "/sentiment-analysis/static/js/2.a4c8e23e.chunk.js.map",
-    "index.html": "/sentiment-analysis/index.html",
-    "precache-manifest.b95245a7744c08992f7d2be5ab02b06a.js": "/sentiment-analysis/precache-manifest.b95245a7744c08992f7d2be5ab02b06a.js",
-    "service-worker.js": "/sentiment-analysis/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/sentiment-analysis/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.a4c8e23e.chunk.js.LICENSE": "/sentiment-analysis/static/js/2.a4c8e23e.chunk.js.LICENSE",
-    "static/media/logo.svg": "/sentiment-analysis/static/media/logo.5d5d9eef.svg"
+    "main.css": "/sentiment-analysis-frontend/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sentiment-analysis-frontend/static/js/main.610e1ae0.chunk.js",
+    "main.js.map": "/sentiment-analysis-frontend/static/js/main.610e1ae0.chunk.js.map",
+    "runtime-main.js": "/sentiment-analysis-frontend/static/js/runtime-main.d383e5f1.js",
+    "runtime-main.js.map": "/sentiment-analysis-frontend/static/js/runtime-main.d383e5f1.js.map",
+    "static/js/2.a4c8e23e.chunk.js": "/sentiment-analysis-frontend/static/js/2.a4c8e23e.chunk.js",
+    "static/js/2.a4c8e23e.chunk.js.map": "/sentiment-analysis-frontend/static/js/2.a4c8e23e.chunk.js.map",
+    "index.html": "/sentiment-analysis-frontend/index.html",
+    "precache-manifest.61f6c954555fed447745ba0750ca1709.js": "/sentiment-analysis-frontend/precache-manifest.61f6c954555fed447745ba0750ca1709.js",
+    "service-worker.js": "/sentiment-analysis-frontend/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sentiment-analysis-frontend/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a4c8e23e.chunk.js.LICENSE": "/sentiment-analysis-frontend/static/js/2.a4c8e23e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/sentiment-analysis-frontend/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d9d64e7.js",
+    "static/js/runtime-main.d383e5f1.js",
     "static/js/2.a4c8e23e.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.65decd69.chunk.js"
+    "static/js/main.610e1ae0.chunk.js"
   ]
 }
